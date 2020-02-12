@@ -20,3 +20,5 @@
 
 ### Fitness
 Fitness is calculated as the number of violated constraints. The lower the fitness, the better the chromosome.
+
+Various methods of selection, recombination and mutation can be chosen. Mutation probability value can be changed, recombination probability is 0.75.
